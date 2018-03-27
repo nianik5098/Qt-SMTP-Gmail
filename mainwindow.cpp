@@ -17,7 +17,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    mail.setUser(string("abushuvom@gmail.com"), string("lgstdnmpavdhkgnb")); //username, password (can be an app password)
+    mail.setUser(string("something@gmail.com"), string("lgstdkoytvdhkgnb")); //username, password (can be an app password)
 }
 
 MainWindow::~MainWindow()
