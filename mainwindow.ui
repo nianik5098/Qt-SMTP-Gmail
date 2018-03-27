@@ -28,7 +28,7 @@
     <item>
      <widget class="QLineEdit" name="lineEdit_from">
       <property name="text">
-       <string>abushuvom@gmail.com</string>
+       <string>@gmail.com</string>
       </property>
      </widget>
     </item>
@@ -45,7 +45,7 @@
     <item>
      <widget class="QLineEdit" name="lineEdit_to">
       <property name="text">
-       <string>fnnpkr@gmail.com</string>
+       <string>@gmail.com</string>
       </property>
      </widget>
     </item>
